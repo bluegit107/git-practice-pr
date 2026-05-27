@@ -1,3 +1,5 @@
+![tests](https://github.com/bluegit107/git-practice-pr/actions/workflows/tests.yml/badge.svg)
+
 # Git PR Practice
 
 Practice the GitHub pull request workflow by adding a small Python function.
